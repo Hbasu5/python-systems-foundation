@@ -39,7 +39,7 @@ The goal is to build a rock-solid foundation for:
 
 **Core Logic** - Square Checker, Computes square of a number, Determines parity & Demonstrates separation of computation and user interaction
 
-**Other Modules Will Be Added...Stay Tuned!! **
+**Other Modules Will Be Added...Stay Tuned!!**
 
 =========================
 
