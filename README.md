@@ -88,3 +88,6 @@ Algorithmic problem solving
 Transition into NumPy and mathematical computing
 
 Built with discipline. Evolving with intention.
+
+
+** Please note that this is not a tutorial repository. It is used by me for documentation of my workings and learning. This can be used as a guide,but please do not expect any guidance that would help you in your learning path**
